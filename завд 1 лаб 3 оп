@@ -2,9 +2,8 @@
 
 int main(void) {
     int numberD=343;
-    int numberB=1000011111;
     printf(" Ціле число у десятковому форматі: %u\n", numberD);
-    printf(" Ціле число у двійковому форматі: %d\n", numberB);
+    printf(" Ціле число у двійковому форматі: %b\n", numberB);
     printf(" Ціле число у вісімковому форматі: %o\n", numberD);
     printf(" Ціле число у шістнадцятковому форматі: %x\n", numberD);
     float numberF=25.342;
